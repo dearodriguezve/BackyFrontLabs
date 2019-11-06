@@ -1,0 +1,5 @@
+/home/tati/Documentos/Arqui/Lab4/sa-auth-ms/sa-auth-ms/src/main/java/sa/user/resource/UserResource.java
+/home/tati/Documentos/Arqui/Lab4/sa-auth-ms/sa-auth-ms/src/main/java/sa/filters/AccessControlResponseFilter.java
+/home/tati/Documentos/Arqui/Lab4/sa-auth-ms/sa-auth-ms/src/main/java/sa/user/service/UserService.java
+/home/tati/Documentos/Arqui/Lab4/sa-auth-ms/sa-auth-ms/src/main/java/sa/user/JAXRSConfiguration.java
+/home/tati/Documentos/Arqui/Lab4/sa-auth-ms/sa-auth-ms/src/main/java/sa/user/model/User.java
